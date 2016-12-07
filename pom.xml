@@ -28,6 +28,11 @@
     			<version>1.9.5</version>
 		</dependency>
 	</dependencies>
+	
+	<build>
+    <sourceDirectory>src</sourceDirectory>
+    <testSourceDirectory>test</testSourceDirectory>
+   </build>
 
 	
 </project>
